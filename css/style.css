@@ -1542,6 +1542,14 @@ header {
 
   #numbers [class*='col-xs'] {
 		  width:100%;
+    }
+    
+    .home-content h1 {
+		font-size:31px;
+    }
+    
+    .home-content h3 {
+		font-size:18px;
 	}
 
   .contact-form .input:nth-child(1), .contact-form .input:nth-child(2) {
