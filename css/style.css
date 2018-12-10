@@ -672,13 +672,8 @@ header {
     color: #fff;
 }
 
-.display-pic {
-    padding: 30px;
-    text-align: center;
-}
-
 .display-pic img {
-    height: 350px;
+    width: 100%;
 }
 
 /*------------------------------------*\
@@ -1796,7 +1791,7 @@ header {
     overflow: hidden;
     min-height: 120px;
   }
-  
+
   .quote-card p {
     font-size: 22px;
     line-height: 1.5;
